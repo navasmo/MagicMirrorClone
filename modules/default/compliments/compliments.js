@@ -11,8 +11,9 @@ Module.register("compliments", {
 			anytime: ["Hello there!"],
 			morning: ["Good morning!", "Have a wonderful Day!", "Lets smash the goals for the day!"],
 			afternoon: ["Good afternoon, Navas!", "How is your day so far?", "Lets keep going!"],
-			evening: ["Productive day?", "What are the evening Plans?", "Aim for even better day tomorrow"],
-			"....-01-01": ["Happy new year!"]
+			evening: ["Productive day?", "What are your evening Plans?", "Aim for even better day tomorrow"],
+			"....-01-01": ["Happy new year!"],
+			"....-11-01": ["Happy Birthday!"]
 		},
 		updateInterval: 30000,
 		remoteFile: null,
