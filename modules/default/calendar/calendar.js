@@ -43,8 +43,8 @@ Module.register("calendar", {
 		tableClass: "small",
 		calendars: [
 			{
-				symbol: "calendar",
-				url: "https://www.calendarlabs.com/templates/ical/US-Holidays.ics"
+				symbol: "University Time Table",
+				url: "https://timetable.uwl.ac.uk/iCal/1gxbpsbbiqs9plp9emgeh76xdaw78oajjcscch07ikxhktftpbz791pheynb0k6s/calendar.ics"
 			}
 		],
 		titleReplace: {
