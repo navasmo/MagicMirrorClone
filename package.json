@@ -26,25 +26,6 @@
 		"lint:staged": "pretty-quick --staged",
 		"prepare": "[ -f node_modules/.bin/husky ] && husky install || echo no husky installed."
 	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/MichMich/MagicMirror.git"
-	},
-	"keywords": [
-		"magic mirror",
-		"smart mirror",
-		"mirror UI",
-		"modular"
-	],
-	"author": "Michael Teeuw",
-	"contributors": [
-		"https://github.com/MichMich/MagicMirror/graphs/contributors"
-	],
-	"license": "MIT",
-	"bugs": {
-		"url": "https://github.com/MichMich/MagicMirror/issues"
-	},
-	"homepage": "https://magicmirror.builders",
 	"devDependencies": {
 		"electron": "^17.1.2",
 		"eslint-config-prettier": "^8.3.0",
